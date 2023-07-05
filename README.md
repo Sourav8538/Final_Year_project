@@ -3,7 +3,7 @@
     
   </head>
   <body>
-    <h1 align:centre > Enterprise Resources Management Software </h1>
+    <h1 align="centre" > Enterprise Resources Management Software </h1>
       <p>
         This Software is based on Erp.
         to develop this project we used below technolotechnology:
@@ -20,7 +20,7 @@
              <li> Vs Code</li>
             <li>XAMPP</li>
         </ol></p>
-      <h2 align:centre> Main Freature </h2>
+      <h2 align="centre"> Main Freature </h2>
         
   </body>
 </html>
